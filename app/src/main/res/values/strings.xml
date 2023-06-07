@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Business Card</string>
+    <string name="Name">Toraev Aleksey</string>
+    <string name="post">Something funny</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="socials">id24431786</string>
+    <string name="email">toraev_aleksei@mail.ru</string>
+</resources>
